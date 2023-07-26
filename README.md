@@ -6,3 +6,5 @@ kullanıcının bakiyesi gözükecektir ve para çekme seçeneği, para yatırma
 havale yapabilir veya faturasını ödeyebilecektir. Bu projede Java Swing kütüphanesi, veri tabanı olarak MySQL Veri tabanı ve nesneye dayalı programlama kullanılmış teknolojilerdir.
 Java geliştirme ortamı olarak Netbeans IDE , MySQL için ise XAMPP web sunucusu yazılımı
 kullanılmıştır.
+
+❮img src="images/github-hesapveri.png" ❯
